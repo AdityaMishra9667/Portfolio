@@ -113,6 +113,23 @@ class projects extends Component {
                             <IconButton name="share" />
                         </CardMenu>
                     </Card>
+                
+                     <Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
+                        <CardTitle style={{color:'white', height:'176px', background:'url(https://miro.medium.com/max/3000/1*m2gDBT_nc-iE7R4AM3sHBQ.jpeg) center'}}>
+                            Machine Learning Project #3
+                        </CardTitle>
+                        <CardText>
+                            AI plays Flappy Birds
+                        </CardText>
+                        <CardActions border>
+                            <Button colored ripple>
+                            <a href="https://github.com/AdityaMishra9667/Machine-Learning/tree/master/FlappyBirdAI" target="popup">GitHub</a>                                
+                            </Button>
+                        </CardActions>
+                        <CardMenu style={{color:'#69bdd2'}}>
+                            <IconButton name="share" />
+                        </CardMenu>
+                    </Card>
                 </div>
             )
         }
