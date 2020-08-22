@@ -81,13 +81,8 @@ class projects extends Component {
                                 <IconButton name="share" />
                             </CardMenu>
                         </Card>
-                        </Cell>             
-
-                        
-
-                        
-                    </Grid>
-                     
+                        </Cell>                       
+                    </Grid>                     
                  </div>
             )
         }
@@ -155,8 +150,7 @@ class projects extends Component {
                     </Grid>
                 </div>
             )
-        }
-        
+        }        
     }
 
 
