@@ -69,7 +69,7 @@ class projects extends Component {
                         <Cell col={4}>
                         <Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
                             <CardTitle style={{color:'black', height:'176px', background:'url(https://logodix.com/logo/2058857.png) center'}}>
-                                Pygame Project #1
+                                Pygame Project #4
                             </CardTitle>
                             <CardText>
                                 Particle Physics
